@@ -1,9 +1,8 @@
 # FP_ML_TomatoLeafDisease
-Git system dari Final Project Mata Kuliah Machine Learning yang memproses klasifikasi penyakit pada tanaman tomat dari proses citra daunnya.
-Runtime Colab harus tersambung dengan Google Drive yang memiliki folder dataset (Training dan Eval Tomato Leaves), file pkl (Encoder), file npy (DecisionTree), dan file json (XGBoost), mohon untuk mendownload file yang diperlukan terlebih dahulu.
+Git system dari Final Project Mata Kuliah Machine Learning yang memproses dan membandingkan klasifikasi penyakit pada tanaman tomat dari proses citra daunnya berdasarkan algoritma DecisionTree dan XGBoost.
+Runtime Colab harus tersambung dengan Google Drive yang memiliki setidaknya folder dataset (Training dan Eval Tomato Leaves) untuk menjalankan klasifikasi dan proses data algoritma. Mohon untuk mendownload file yang diperlukan terlebih dahulu.
+Streamlit dan requirements dijalankan secara local dan hanya menampilkan representasi (artifacts dan model) hasil algoritma.
 
 init Main branch menggunakan file .md
 
-Project dikerjakan oleh:
-Febbyna Aulia Putri (23081010215)
-Christian Bimo Aryoputro (23081010223)
+Project dikerjakan oleh Febbyna Aulia Putri (23081010215) dan Christian Bimo Aryoputro (23081010223)
